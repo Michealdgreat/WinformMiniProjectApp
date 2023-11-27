@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformMiniProject", "WinformMiniProject\WinformMiniProject.csproj", "{A559B2E9-C1AC-42F6-BF82-C54C7876BE28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{377BA27B-F2B1-46E9-9BE0-7AE2E4F0FDC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A559B2E9-C1AC-42F6-BF82-C54C7876BE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A559B2E9-C1AC-42F6-BF82-C54C7876BE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A559B2E9-C1AC-42F6-BF82-C54C7876BE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A559B2E9-C1AC-42F6-BF82-C54C7876BE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377BA27B-F2B1-46E9-9BE0-7AE2E4F0FDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377BA27B-F2B1-46E9-9BE0-7AE2E4F0FDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377BA27B-F2B1-46E9-9BE0-7AE2E4F0FDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377BA27B-F2B1-46E9-9BE0-7AE2E4F0FDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EEFFF22-805E-4464-A15A-4ECE4838C58D}
+	EndGlobalSection
+EndGlobal
